@@ -38,7 +38,13 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 
 
 3. Did you ignore any of the warnings or errors presented by the accessibility checker? If so, why does this not seem like an accessibility concern? If it's useful, you can consolidate your thoughts on multiple warnings/errors if the rationale is similar.
-   I ignored any potential problems presented by the accessibility checker because 
+   I ignored the potential problems presented by the accessibility checker because the checker was concerned about information that it does not have.
+   The image I used is a profile of my face, which is very visible in the image itself, the alt text also states this.
+   The checker is concerned that the image may not be visible, or the alt text does not describe the image correctly, which I believe is false.
+   The table I used also have clear labels for its content, as well as black font to contrast the white background.
+   The contact form is not truly accessible for now because it require an external server to connect to mail, which I cannot afford.
+   Most of the problems presented by the checker are in response to either the image being not clearly visible or the alt text not describing correctly,
+   the text being not visible and the table not labeled correctly, and the contact form having issues. All of these issues I believe are addressed, and therefore I will ignore them.
 
 
 4. How long, in hours, did it take you to complete this assignment?
@@ -46,7 +52,7 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 
 
 5. What online resources did you consult when completing this assignment? (list specific URLs, describe queries to Generative AI, or use of AI-based code completion)
-   I consulted Claude AI to understand how to use HTML forms as a contact form. I used https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/font-family to understand the different fonts to use for the portfolio. I used a reddit thread https://www.reddit.com/r/Vocaloid/comments/nw3xxp/what_color_is_mikus_hair/ to find a specific color of blue I want.
+   I consulted Claude AI to understand how to use HTML forms as a contact form. I also consulted Claude AI to understand the set up and  I used https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/font-family to understand the different fonts to use for the portfolio. I used a reddit thread https://www.reddit.com/r/Vocaloid/comments/nw3xxp/what_color_is_mikus_hair/ to find a specific color of blue I want.
 
 
 6. What classmates or other individuals did you consult as part of this assignment? What did you discuss?
